@@ -1,0 +1,8 @@
+{
+  "name": "Loginform-of-Express",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "repository": "https://github.com/ren778/Loginform-of-Express.git",
+  "author": "ren <0806renkun@gmail.com>",
+  "license": "UNLICENSED"
+}
