@@ -5,6 +5,9 @@
   "repository": "https://github.com/ren778/Loginform-of-Express.git",
   "author": "ren <0806renkun@gmail.com>",
   "license": "UNLICENSED",
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {},
   "devDependencies": {
     "express": "^4.18.2",
