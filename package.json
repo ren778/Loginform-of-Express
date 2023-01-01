@@ -6,7 +6,7 @@
   "author": "ren <0806renkun@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
-    "start": "node ."
+    "start": "node src/app.js"
   },
   "dependencies": {},
   "devDependencies": {
