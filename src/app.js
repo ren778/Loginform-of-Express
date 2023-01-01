@@ -12,4 +12,4 @@ io.on('connection', (socket) => {
 
 server.listen(3000, () => console.log('Listened'));
 
-export default server;
+module.exports = server;
